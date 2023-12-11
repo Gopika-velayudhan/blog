@@ -36,3 +36,79 @@
     transform: rotate(360deg);
   }
 }
+.homepage{
+  text-align: center;
+  color: darkorchid;
+  margin-top: 200px;
+
+}
+.hbtn:hover{
+  background-color: gray;
+  color: white;
+  
+}
+
+
+
+
+
+
+
+
+.navlink, a{
+  padding: 8px 20px;
+  background-color: lightgray;
+  color:black ;
+  padding-left: 25px;
+  font-size: 30px;
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+
+
+
+}
+.btn{
+  display: flex;
+  justify-content: center;
+}
+.btn1{
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 0px 12px;
+  margin-top: 20px;
+  width: 100px;
+  height:50px ;
+
+}
+.btn1:hover{
+  color: black;
+  background-color: gray;
+}
+.btn2{
+  border: 2px solid black;
+
+  border-radius: 12px;
+  padding: 0px 12px;
+  margin-top: 20px;
+  
+  margin-left: 140px;
+  
+  align-items: space-around;
+
+
+  
+
+}
+.btn2:hover{
+  color: black;
+  background-color: gray;
+}
+.create{
+  text-align: center;
+  color:burlywood
+}
+.display{
+  padding: 20px 30px;
+}
+
